@@ -1,0 +1,1 @@
+simple calculator using  javaScript, gtml and css. one of my first demos. was made a few months ago.
